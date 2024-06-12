@@ -1,1 +1,2 @@
-iwebsec/iwebsec
+phusion/baseimage:noble-1.0.0
+ubuntu:16.04
