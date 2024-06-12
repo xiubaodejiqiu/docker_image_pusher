@@ -1,2 +1,1 @@
-phusion/baseimage:noble-1.0.0
-ubuntu:16.04
+php:5.6.27-apache
