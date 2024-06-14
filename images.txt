@@ -1,1 +1,1 @@
-ubuntu:jammy-20230301
+ubuntu:18.04
