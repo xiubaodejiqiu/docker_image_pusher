@@ -1,1 +1,1 @@
-vulnerables/web-dvwa
+php:7.4-apache
