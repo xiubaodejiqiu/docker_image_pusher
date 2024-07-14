@@ -1,1 +1,2 @@
 composer
+mtwf/typesetter_cve-2020-25790:5.1
