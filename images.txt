@@ -1,4 +1,4 @@
 composer
 mtwf/typesetter_cve-2020-25790:5.1
 alpine:3.3
-dockerproxy.com/vulfocus/vulfocus:latest
+vulfocus:latest
