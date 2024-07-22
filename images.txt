@@ -2,3 +2,4 @@ composer
 mtwf/typesetter_cve-2020-25790:5.1
 alpine:3.3
 vulfocus/wso2-cve_2022_29464:latest
+janes/beef
