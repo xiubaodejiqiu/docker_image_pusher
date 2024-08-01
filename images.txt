@@ -4,3 +4,4 @@ alpine:3.3
 vulfocus/wso2-cve_2022_29464:latest
 vulfocus/vulfocus:0.3.2.11
 vulfocus/weblogic-cve_2017_10271:latest
+tophant/arl:v2.6.2
