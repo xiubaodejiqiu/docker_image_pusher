@@ -6,3 +6,4 @@ vulfocus/vulfocus:0.3.2.11
 vulfocus/weblogic-cve_2017_10271:latest
 vulhub/tomcat:8.0
 vulhub/tomcat:8.5.19
+vulhub/tomcat:9.0.30
