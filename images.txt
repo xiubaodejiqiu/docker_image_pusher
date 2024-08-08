@@ -7,3 +7,4 @@ vulfocus/weblogic-cve_2017_10271:latest
 vulhub/tomcat:8.0
 vulhub/tomcat:8.5.19
 vulhub/tomcat:9.0.30
+vulhub/thinkphp:2.1
