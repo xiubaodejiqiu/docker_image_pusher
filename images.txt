@@ -9,3 +9,4 @@ vulhub/tomcat:8.5.19
 vulhub/tomcat:9.0.30
 vulhub/thinkphp:2.1
 vulhub/thinkphp:5.0.20
+mysql:5.5
