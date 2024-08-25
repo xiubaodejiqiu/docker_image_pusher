@@ -13,3 +13,4 @@ mysql:5.5
 vulhub/thinkphp:5.0.9
 vulhub/thinkphp:6.0.12
 vulhub/postgres:9.6.7
+vulhub/postgres:10.7
