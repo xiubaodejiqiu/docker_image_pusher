@@ -15,3 +15,4 @@ vulhub/thinkphp:6.0.12
 vulhub/postgres:9.6.7
 vulhub/postgres:10.7
 vulhub/redis:5.0.7
+vulhub/redis:4.0.14
