@@ -20,3 +20,4 @@ vulhub/apache-druid:0.20.0
 vulhub/nginx:1.13.2
 vulhub/nginx:1.4.2
 vulhub/nginx:1
+php:fpm
