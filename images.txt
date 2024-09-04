@@ -21,3 +21,4 @@ vulhub/nginx:1.13.2
 vulhub/nginx:1.4.2
 vulhub/nginx:1
 php:fpm
+docker.io/vulhub/php:5-fpm
