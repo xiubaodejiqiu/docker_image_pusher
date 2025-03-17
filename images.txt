@@ -1,1 +1,1 @@
-janes/beef
+janes/beef:latest
