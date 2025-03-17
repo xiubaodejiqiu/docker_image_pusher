@@ -1,4 +1,1 @@
-withsecurelabs/cve-2024-21626
-vulhub/solr:8.11.0
-ubuntu:rolling
-parrotsec/beef
+janes/beef
