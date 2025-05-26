@@ -1,2 +1,2 @@
 sagikazarmark/dvwa
-vulhub
+vulhub/weblogic
